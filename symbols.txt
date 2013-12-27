@@ -1,0 +1,209 @@
+1⃣ keycap_1
+2⃣ keycap_2
+3⃣ keycap_3
+4⃣ keycap_4
+5⃣ keycap_5
+6⃣ keycap_6
+7⃣ keycap_7
+8⃣ keycap_8
+9⃣ keycap_9
+0⃣ keycap_0
+🔟 keycap_ten
+🔢 input_symbol_for_numbers
+# hash_key
+🔣 input_symbol_for_symbols
+⬆ upwards_black_arrow
+⬇ downwards_black_arrow
+⬅ leftwards_black_arrow
+➡ black_rightwards_arrow
+🔠 input_symbol_for_latin_capital_letters
+🔡 input_symbol_for_latin_small_letters
+🔤 input_symbol_for_latin_letters
+↗ north_east_arrow
+↖ north_west_arrow
+↘ south_east_arrow
+↙ south_west_arrow
+↔ left_right_arrow
+↕ up_down_arrow
+🔄 anticlockwise_downwards_and_upwards
+◀ black_left_pointing_triangle
+▶ black_right_pointing_triangle
+🔼 up_pointing_small_red_triangle
+🔽 down_pointing_small_red_triangle
+↩ leftwards_arrow_with_hook
+↪ rightwards_arrow_with_hook
+ℹ information_source
+⏪ black_left_pointing_double_triangle
+⏩ black_right_pointing_double_triangle
+⏫ black_up_pointing_double_triangle
+⏬ black_down_pointing_double_triangle
+⤵ arrow_pointing_rightwards_then_curving_downwards
+⤴ arrow_pointing_rightwards_then_curving_upwards
+🆗 squared_ok
+🔀 twisted_rightwards_arrows
+🔁 clockwise_rightwards_and_leftwards_open_circle_arrows
+🔂 clockwise_rightwards_and_leftwards_open_circle_arrows_with_circled_one_overlay
+🆕 squared_new
+🆙 squared_up_with_exclamation_mark
+🆒 squared_cool
+🆓 squared_free
+🆖 squared_ng
+📶 antenna_with_bars
+🎦 cinema
+🈁 squared_katakana_koko
+🈯 squared_cjk_unified_ideograph_6307
+🈳 squared_cjk unified_ideograph_7a7a
+🈵 squared_cjk unified_ideograph_6e80
+🈴 squared_cjk unified_ideograph_5408
+🈲 squared_cjk unified_ideograph_7981
+🉐 circled_ideograph_advantage
+🈹 squared_cjk unified_ideograph_5272
+🈺 squared_cjk unified_ideograph_55b6
+🈶 squared_cjk unified_ideograph_6709
+🈚 squared_cjk unified_ideograph_7121
+🚻 restroom
+🚹 mens_symbol
+🚺 womens_symbol
+🚼 baby_symbol
+🚾 water_closet
+🚰 potable_water_symbol
+🚮 put_litter_in_its_place_symbol
+🅿 negative_squared_latin_capital_letter_p
+♿ wheelchair_symbol
+🚭 no_smoking_symbol
+🈷 squared_cjk_unified_ideograph_6708
+🈸 squared_cjk_unified_ideograph_7533
+🈂 squared_katakana_sa
+Ⓜ circled_latin_capital_letter_m
+🛂 passport_control
+🛄 baggage_claim
+🛅 left_luggage
+🛃 customs
+🉑 circled_ideograph_accept
+㊙ circled_ideograph_secret
+㊗ circled_ideograph_congratulation
+🆑 squared_cl
+🆘 squared_sos
+🆔 squared_id
+🚫 no_entry_sign
+🔞 no_one_under_eighteen_symbol
+📵 no_mobile_phones
+🚯 do_not_litter_symbol
+🚱 non_potable_water_symbol
+🚳 no_bicycles
+🚷 no_pedestrians
+🚸 children_crossing
+⛔ no_entry
+✳ eight_spoked_asterisk
+❇ sparkle
+❎ negative_squared_cross_mark
+✅ white_heavy_check_mark
+✴ eight_pointed_black_star
+💟 heart_decoration
+🆚 squared_vs
+📳 vibration_mode
+📴 mobile_phone_off
+🅰 negative_squared_latin_capital_letter_a
+🅱 negative_squared_latin_capital_letter_b
+🆎 negative_squared_ab
+🅾 negative_squared_latin_capital_letter_o
+💠 diamond_shape_with_a_dot_inside
+➿ double_curly_loop
+♻ black_universal_recycling_symbol
+♈ aries
+♉ taurus
+♊ gemini
+♋ cancer
+♌ leo
+♍ virgo
+♎ libra
+♏ scorpius
+♐ sagittarius
+♑ capricorn
+♒ aquarius
+♓ pisces
+⛎ ophiuchus
+🔯 six_pointed_star_with_middle_dot
+🏧 automated_teller_machine
+💹 chart_with_upwards_trend_and_yen_sign
+💲 heavy_dollar_sign
+💱 currency_exchange
+© Copyright sign
+® registered_sign
+™ trade_mark_sign
+❌ cross_mark
+‼ double_exclamation_mark
+⁉ exclamation_question_mark
+❗ heavy_exclamation_mark_symbol
+❓ black_question_mark_ornament
+❕ white_exclamation_mark_ornament
+❔ white_question_mark_ornament
+⭕ heavy_large_circle
+🔝 top_with_upwards_arrow_above
+🔚 end_with_leftwards_arrow_above
+🔙 back_with_leftwards_arrow_above
+🔛 on_with_exclamation_mark_with_left_right_arrow_above
+🔜 soon_with_rightwards_arrow_above
+🔃 clockwise_downwards_and_upwards_open_circle_arrows
+🕛 clock_face_twelve_o’clock
+🕧 clock_face_twelve_thirty
+🕐 clock_face_one o’clock
+🕜 clock_face_one_thirty
+🕑 clock_face_two o’clock
+🕝 clock_face_two_thirty
+🕒 clock_face_three o’clock
+🕞 clock_face_three_thirty
+🕓 clock_face_four o’clock
+🕟 clock_face_four_thirty
+🕔 clock_face_five o’clock
+🕠 clock_face_five_thirty
+🕕 clock_face_six o’clock
+🕡 clock_face_six_thirty
+🕖 clock_face_seven o’clock
+🕢 clock_face_seven_thirty
+🕗 clock_face_eight o’clock
+🕣 clock_face_eight_thirty
+🕘 clock_face_nine o’clock
+🕤 clock_face_nine_thirty
+🕙 clock_face_ten o’clock
+🕥 clock_face_ten_thirty
+🕚 clock_face_eleven o’clock
+🕦 clock_face_eleven_thirty
+✖ heavy_multiplication_x
+➕ heavy_plus_sign
+➖ heavy_minus_sign
+➗ heavy_division_sign
+♠ black_spade_suit
+♥ black_heart_suit
+♣ black_club_suit
+♦ black_diamond_suit
+💮 white_flower
+💯 hundred_points_symbol
+✔ heavy_check_mark
+☑ ballot_box_with_check
+🔘 radio_button
+🔗 link_symbol
+➰ curly_loop
+〰 wavy_dash
+〽 part_alternation_mark
+🔱 trident_emblem
+◼ black_medium_square
+◻ white_medium_square
+◾ black_medium_small_square
+◽ white_medium_small_square
+▪ black_small_square
+▫ white_small_square
+🔺 up_pointing_red_triangle
+🔲 black_square_button
+🔳 white_square_button
+⚫ medium_black_circle
+⚪ medium_white_circle
+🔴 large_red_circle
+🔵 large_blue_circle
+🔻 down_pointing_red_triangle
+⬜ white_large_square
+⬛ black_large_square
+🔶 large_orange_diamond
+🔷 large_blue_diamond
+🔸 small_orange_diamond
+🔹 small_blue_diamond
