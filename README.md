@@ -1,6 +1,8 @@
 # Emoji Key Mapper for Mac OS X
 Creates keyboard mappings on Mac OS X for emoji names to emoji characters.
 
+After installing, `:pile_of_poo:` will magically transform into :poop:
+
 The mappings are added to the `NSUserDictionaryReplacementItems` array in the Mac OS X settings.
 
 :grinning:
